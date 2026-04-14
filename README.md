@@ -1,3 +1,4 @@
+![](https://github.com/JuliansPortfolio/Tata-Virtual-Internship/blob/main/OnlineRetail.jpg)
 # Tata Virtual Internship with Forage
 ## Empowering Business with Effective Insights
 
