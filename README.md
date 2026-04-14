@@ -32,23 +32,23 @@ The dataset consist of 44,999 rows with 8 columns. These columns description are
 ### Data Visualization
 Due to the fact that we really don't have much analysis to make, we proceeded to visualisation. The first visualization was on the revenue genearted in the year 2011 across various months, second part was on the revenue and quantity that belong to top 10 countries, third part was top 10 revenue contributed by customers and lastly, were top demand by countries. The visualizations are below for grasp and better understanding:
 
-1. [First](https://github.com/JuliansPortfolio/TaTa/assets/118804668/93c209f5-8c0e-4f36-b7a3-717e32e8b50b)
+1. ![](https://github.com/JuliansPortfolio/Tata-Virtual-Internship/blob/main/OnlineRetail1.png)
 
-2. [Second](https://github.com/JuliansPortfolio/TaTa/assets/118804668/61d54b2b-e388-4178-8aea-125eef7a4410)
+2. ![](https://github.com/JuliansPortfolio/Tata-Virtual-Internship/blob/main/OnlineRetail2.png)
 
-3. [Third](https://github.com/JuliansPortfolio/TaTa/assets/118804668/600bdedc-ef96-4b15-ad45-0cec9fa651c4)
+3. ![](https://github.com/JuliansPortfolio/Tata-Virtual-Internship/blob/main/OnlineRetail3.png)
 
-4. [Fourth](https://github.com/JuliansPortfolio/TaTa/assets/118804668/19cde7ea-4e29-4ec9-ab6c-192c93ff4752)
+4. ![](https://github.com/JuliansPortfolio/Tata-Virtual-Internship/blob/main/OnlineRetail4.png)
 
 
 ### Findings and Insights
-    The month that yielded the highest revenue was October, 2011 with the figure $216,000. While the least revenue was generated on December, 2011at $46,000. 
+- The month that yielded the highest revenue was October, 2011 with the figure $216,000. While the least revenue was generated on December, 2011at $46,000. 
     
-    The rate of quantity produced determines the rate of outcome that is revenue. From our observation netherland, EIRE, Germany, France and Australia tops the chart with exclusive amounts. Spain, Switzerland, Belgium, Sweden and Japan came below. 
+- The rate of quantity produced determines the rate of outcome that is revenue. From our observation netherland, EIRE, Germany, France and Australia tops the chart with exclusive amounts. Spain, Switzerland, Belgium, Sweden and Japan came below. 
     
-    Customer with the ID 14646 patronized massively when compared to other customers. Though some few customers with the ID: 14911, 12415 & 14156 also fall into loyal customers as a result of their unwaivering patronage. 
+- Customer with the ID 14646 patronized massively when compared to other customers. Though some few customers with the ID: 14911, 12415 & 14156 also fall into loyal customers as a result of their unwaivering patronage. 
     
-    Most demands were carried out in North American region. This shows that majority of the c ustomers are Americans though North American precisely.
+- Most demands were carried out in North American region. This shows that majority of the c ustomers are Americans though North American precisely.
 
 ### Recommendation
 1. There's a great need to improve sales in other low performing months. Also the company need to utilize the surge in revenue generation in October by add sale incentives like bonus, discount and so on.
